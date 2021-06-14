@@ -1,4 +1,19 @@
 .parent{
 	width:85%;
 	margin:auto;
+
 }
+.container{
+	border:solid 2px #202014;
+	border-radius:5px;
+	background:linear-gradient(45deg,#808080,#828282,#121212);
+}
+ body{
+	 background-color:linen;
+ }
+ h3{
+	 border:solid 3px Black;
+	 border-radius: 10px;
+	 padding: 10 px;
+	 background-color:darkGrey;
+ }
